@@ -1,0 +1,123 @@
+.logo{
+	width: 100%;
+	height: 50px;
+}
+.movie{
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.buscar{
+	margin-top: 20px;
+	
+}
+.banner{
+	border: 1px solid white;
+	width: 100%;
+	height: 100%;
+}
+.container1{
+	background-image: url(../img/banner.jpg);
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	padding:50px 50px;
+	background-repeat: no-repeat;
+	background-position: top;
+	}
+
+.icons{
+	width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 340px;
+    left: 360px;
+}
+.der{
+	margin-left: 750px;
+	color: white;
+}
+hr{
+	width: 250px;
+}
+.verde{
+	border: 2px solid green;
+	border-radius: 10%;
+	width: 60px;
+	height: auto;
+	color:green;
+	margin-left: 730px;
+}
+h3{
+	margin-left: 530px;
+	font-size: 15px;
+}
+li{
+	list-style: none;
+	margin-left: 730px;
+	margin-bottom: 0px;
+}
+.espacio{
+	margin-right: 5px;
+}
+.text{
+	margin-left: 730px;
+}
+.youtube{
+	background-color: yellow;
+	width: 200px;
+	height: 60px;
+	border-radius: 5%;
+	border: 2px solid yellow;
+	margin-left: 730px;
+	color: white;
+}
+.ticket{
+	background-color: orange;
+	width: 200px;
+	height: 60px;
+	border-radius: 5%;
+	border: 2px solid orange;
+	margin-left: 730px;
+	color: white;
+}
+a{
+
+	text-decoration: none;
+}
+p{
+	padding-top: 0px auto;
+}
+.naranjo{
+	width: 100%;
+	height: 280px;
+	background-color: orange;
+	border: 1px solid orange;
+}
+.peli{
+	width: 215px;
+	height: 250px;
+	margin-top: 20px;
+	float: left;
+	display: inline-block;
+	margin-left: 15px;
+	padding: 10px;
+}
+.video{
+	width: 100%;
+	height: 100%;
+}
+.bajo{
+	background-color: orange;
+	width: 200px;
+	height: 60px;
+	border-radius: 5%;
+	border: 2px solid orange;
+	color: white;
+}
+.imagenes{
+	width: 100%;
+	height: 100%;
+}
+.pe1{
+	height:375;
+}
